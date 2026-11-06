@@ -1,0 +1,6 @@
+{
+  "appId": "kr.thanksnote.app",
+  "appName": "감사 노트",
+  "webDir": "dist",
+  "backgroundColor": "#FFF4F3"
+}
